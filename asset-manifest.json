@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/qr-reader/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/qr-reader/static/js/main.c825f194.chunk.js",
+    "main.js.map": "/qr-reader/static/js/main.c825f194.chunk.js.map",
+    "runtime-main.js": "/qr-reader/static/js/runtime-main.b3ae3826.js",
+    "runtime-main.js.map": "/qr-reader/static/js/runtime-main.b3ae3826.js.map",
+    "static/js/2.6a7a67db.chunk.js": "/qr-reader/static/js/2.6a7a67db.chunk.js",
+    "static/js/2.6a7a67db.chunk.js.map": "/qr-reader/static/js/2.6a7a67db.chunk.js.map",
+    "index.html": "/qr-reader/index.html",
+    "precache-manifest.dce3b04162157d3ec12beccb1fa67883.js": "/qr-reader/precache-manifest.dce3b04162157d3ec12beccb1fa67883.js",
+    "service-worker.js": "/qr-reader/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/qr-reader/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.6a7a67db.chunk.js.LICENSE": "/qr-reader/static/js/2.6a7a67db.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3ae3826.js",
+    "static/js/2.6a7a67db.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.c825f194.chunk.js"
+  ]
+}
